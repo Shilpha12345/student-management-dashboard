@@ -64,6 +64,9 @@ The dashboard is connected with MySQL database using:
 - 
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/765df4c1-f2af-43e2-a423-7a419696a582" />
 
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/741b6ebc-3954-4d51-b8ea-028186c0ff0c" />
+
+
 
 
 Project Workflow
